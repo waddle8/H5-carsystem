@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u30_div {
+#u136_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -29,14 +29,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u30 {
+#u136 {
   position:absolute;
   left:0px;
   top:0px;
   width:320px;
   height:548px;
 }
-#u31 {
+#u137 {
   position:absolute;
   left:2px;
   top:266px;
@@ -44,21 +44,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u32_img {
+#u138_img {
   position:absolute;
   left:0px;
   top:0px;
   width:320px;
   height:40px;
 }
-#u32 {
+#u138 {
   position:absolute;
   left:0px;
   top:0px;
   width:320px;
   height:40px;
 }
-#u33 {
+#u139 {
   position:absolute;
   left:2px;
   top:12px;
@@ -66,28 +66,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u34 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-}
-#u35_img {
+#u140_img {
   position:absolute;
   left:0px;
   top:0px;
   width:20px;
   height:20px;
 }
-#u35 {
+#u140 {
   position:absolute;
   left:6px;
   top:10px;
   width:20px;
   height:20px;
 }
-#u36 {
+#u141 {
   position:absolute;
   left:2px;
   top:2px;
@@ -95,7 +88,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u37_div {
+#u142_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -110,7 +103,7 @@
   box-shadow:none;
   color:#E4E4E4;
 }
-#u37 {
+#u142 {
   position:absolute;
   left:25px;
   top:10px;
@@ -118,14 +111,14 @@
   height:20px;
   color:#E4E4E4;
 }
-#u38 {
+#u143 {
   position:absolute;
   left:0px;
   top:0px;
   width:29px;
   white-space:nowrap;
 }
-#u39_div {
+#u144_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -141,7 +134,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u39 {
+#u144 {
   position:absolute;
   left:134px;
   top:10px;
@@ -150,28 +143,28 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u40 {
+#u145 {
   position:absolute;
   left:0px;
   top:0px;
   width:57px;
   white-space:nowrap;
 }
-#u41_img {
+#u146_img {
   position:absolute;
   left:0px;
   top:0px;
   width:20px;
   height:20px;
 }
-#u41 {
+#u146 {
   position:absolute;
   left:291px;
   top:10px;
   width:20px;
   height:20px;
 }
-#u42 {
+#u147 {
   position:absolute;
   left:2px;
   top:2px;
@@ -179,21 +172,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u43_img {
+#u148_img {
   position:absolute;
   left:0px;
   top:0px;
   width:318px;
   height:161px;
 }
-#u43 {
+#u148 {
   position:absolute;
   left:1px;
   top:38px;
   width:318px;
   height:161px;
 }
-#u44 {
+#u149 {
   position:absolute;
   left:2px;
   top:72px;
@@ -201,14 +194,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u45_img {
+#u150_img {
   position:absolute;
   left:0px;
   top:0px;
   width:276px;
   height:40px;
 }
-#u45 {
+#u150 {
   position:absolute;
   left:20px;
   top:224px;
@@ -219,14 +212,14 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u46 {
+#u151 {
   position:absolute;
   left:2px;
   top:11px;
   width:272px;
   word-wrap:break-word;
 }
-#u47_div {
+#u152_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -250,14 +243,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u47 {
+#u152 {
   position:absolute;
   left:1px;
   top:508px;
   width:318px;
   height:39px;
 }
-#u48 {
+#u153 {
   position:absolute;
   left:2px;
   top:12px;
@@ -265,7 +258,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u49_div {
+#u154_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -281,8 +274,9 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
+  color:#D7D7D7;
 }
-#u49 {
+#u154 {
   position:absolute;
   left:43px;
   top:518px;
@@ -291,15 +285,16 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
+  color:#D7D7D7;
 }
-#u50 {
+#u155 {
   position:absolute;
   left:0px;
   top:0px;
   width:57px;
   white-space:nowrap;
 }
-#u51_div {
+#u156_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -315,9 +310,9 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
-  color:#D7D7D7;
+  color:#000000;
 }
-#u51 {
+#u156 {
   position:absolute;
   left:202px;
   top:518px;
@@ -326,9 +321,9 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
-  color:#D7D7D7;
+  color:#000000;
 }
-#u52 {
+#u157 {
   position:absolute;
   left:0px;
   top:0px;
